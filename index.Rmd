@@ -1,5 +1,6 @@
 ---
-title: "Personal Website"
+title: "Keisuke Takano's Website"
 ---
 
 Hello, World!
+I'm not sure when I can handle GitHub well.
